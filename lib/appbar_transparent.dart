@@ -490,10 +490,10 @@ class _AppbarTransparentState extends State<AppbarTransparent> {
                             ),
                           ),
                         ),
-                        SizedBox(width: 100),
+                        SizedBox(width: 50),
                         Container(
-                          height: 300,
-                          width: 650,
+                          height: 400,
+                          width: 480,
                           child: ContentBox2(),
                         ),
                       ],
@@ -916,7 +916,7 @@ class _AppbarTransparentState extends State<AppbarTransparent> {
                             ),
                           ),
                         ),
-                        SizedBox(width: 100),
+                        SizedBox(width: 20),
                         Container(
                           height: 500,
                           width: 700,

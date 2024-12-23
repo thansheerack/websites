@@ -26,7 +26,7 @@ class _ContentBox2State extends State<ContentBox2> {
                 height: 1.5,
                 fontWeight: FontWeight.w600,
                 color: Colors.white,
-                fontSize: 40,
+                fontSize: 30,
               ),
               children: [
                 TextSpan(
